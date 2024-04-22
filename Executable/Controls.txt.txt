@@ -1,0 +1,16 @@
+In menu
+	Mouse to move around
+	Mouse left click to use buttons
+
+In game
+	Back to menu button to exit to menu
+
+On ground
+	A & D - Turn left or right
+	W - Speed up (less friction)
+	S - Brake
+	Space - Jump
+
+In air
+	A & D - Rotate left or right
+	Shift + W & S - Rotate forward or backward
